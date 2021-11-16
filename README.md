@@ -6,8 +6,9 @@ Your task is to create an NLI model that assigns labels of 0, 1, or 2 (correspon
 Today, the most common approaches to NLI problems include using embeddings and transformers like BERT.
 
 BUT BEFORE The main challenge of using NLI as popular NLP, we are asking you a smallest challenges:
-Step 1: To prepare a simple notebook that reads the Data files in csv format and describe them. 
-Step 2: To save the data in a JSON format file, for sure the JSON will be more explicit becaus it will hold each time key:value, in the format that you can propose. 
-Step 3: To analyse the data provided by the challenge to compare the source data and to represent them explicitly before designing the AI algorithm
+
+* Step 1: To prepare a simple notebook that reads the Data files in csv format and describe them. 
+* Step 2: To save the data in a JSON format file, for sure the JSON will be more explicit becaus it will hold each time key:value, in the format that you can propose. 
+* Step 3: To analyse the data provided by the challenge to compare the source data and to represent them explicitly before designing the AI algorithm
 
 Here we put a pseudo solution for the project or just initial start for the project
